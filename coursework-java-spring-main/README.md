@@ -46,15 +46,3 @@
 
 #### 2.2 Схема базы данных
 ![image](https://user-images.githubusercontent.com/91216092/192002785-2ed2376f-42e5-47c6-8ce8-5243d3d95145.png) \
-:link: Powered by [yFiles](https://www.yworks.com/products/yfiles)
-
-## Социальный раздел
-### Документация
-:floppy_disk: [Документация.pdf](https://github.com/1499maxawergy/coursework-java-spring/files/9635254/default.pdf)
-
-
-### Авторство
-
-РТУ МИРЭА ИКБО-16-20 2022 \
-Милько Максим Александрович \
-:link: Telegram: [@maxawergy](https://t.me/maxawergy)
